@@ -1,7 +1,7 @@
 # Date Created
 2019/05/01
 # Project Title
-Investigating global and local average temperature trends
+Investigating Global and Local average temperature trends
 # Description
 My project is about investigating trends between the temperatures of my local city Toronto and comparing the data with the global average temperatures.
 
