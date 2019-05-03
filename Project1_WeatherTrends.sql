@@ -1,7 +1,7 @@
 /* This project is designed to compare the similarities and differences between the local city temprature trends 
 and the global temperature trends */
 
-/*I am from Toronto, Canada and so we must verify if Toronto exists in the database */
+/*I am from Toronto, Canada. So our logical first step would be to verify if Toronto exists in the database */
 
 SELECT *
 FROM city_list
